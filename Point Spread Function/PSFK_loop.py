@@ -1,8 +1,6 @@
 from PSF_K import PSFK
 from packages import*
 
-#Aquí no se calcula el combined
-
 directory='/Users/alba/Desktop/ESO/Data/KOA_118904/NIRC2/calibrated/K_aligned/' #Put your own directory
 p = Path(directory) #To place us in the directory
 
